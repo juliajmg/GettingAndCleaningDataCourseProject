@@ -10,14 +10,14 @@ The nomeclature of the measurments variables is: t or f= time or frequency, Body
 The mean was obtained per activity for every subject, for every variable. 
 Dimensions of dataframe: 180 rows, 67 columns. 
 
-#Variables
+###Variables
 
-$`Subject
+$`Subject`
 [1] "integer"
 
 1 to 30 subjects. 
 
-$`Activity
+$`Activity`
 [1] "factor"
 
 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
