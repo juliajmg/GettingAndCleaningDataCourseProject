@@ -1,7 +1,7 @@
 ##Project Description 
-The original project was conducted by Smartlab at the Non Linear Complex Systems Laboratory to measure Human ActivityRecognition Using Smartphones Dataset.
+The original project was conducted by Smartlab at the Non Linear Complex Systems Laboratory to measure Human Activity Recognition Using Smartphones Dataset.
 The experiments were carried out with a group of 30 volunteers within an age bracket of 19-48 years, and each performed six activities wearing a smartphone on the waist.
-Using its embedded accelerometer and gyroscope, they captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
+Using its embedded accelerometer and gyroscope, they captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The obtained dataset was randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
 In this project, the script run_analysis.R uses the data from the original project to select only the mean and standard deviations of every measurement of a 561-feature vector with time and frequency domain variables, to later obtain the average of every measure per activity for every subject. 
 
