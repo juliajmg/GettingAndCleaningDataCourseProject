@@ -11,12 +11,15 @@ The mean was obtained per activity for every subject, for every variable.
 Dimensions of dataframe: 180 rows, 67 columns. 
 
 #Variables
-$Subject
+
+$`Subject
 [1] "integer"
+
 1 to 30 subjects. 
 
-$Activity
+$`Activity
 [1] "factor"
+
 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 $`Mean_tBodyAcc-mean()-X`
